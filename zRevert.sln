@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zRevert", "zRevert\zRevert.csproj", "{16BE5819-DDB9-4723-B019-AB31004BD24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BE5819-DDB9-4723-B019-AB31004BD24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BE5819-DDB9-4723-B019-AB31004BD24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BE5819-DDB9-4723-B019-AB31004BD24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BE5819-DDB9-4723-B019-AB31004BD24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D57F4F01-8BF3-449B-A835-51F9A36DD502}
+	EndGlobalSection
+EndGlobal
